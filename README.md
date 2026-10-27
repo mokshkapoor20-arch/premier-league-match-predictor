@@ -13,7 +13,7 @@ Pick any matchweek, tap **▶ Predict** on a match, and watch it play out: the t
 ![alt text](<Screenshot 2026-10-22 182155.png>)
 
 
-**Live app:** (http://localhost:8501)
+**Live app:** (https://premier-league-match-predictor-xwke27eo5wmvcwsh6jmfzv.streamlit.app)
 
 > **How this was built.** 
 I started as a beginner, learned pandas and scikit-learn first. then tried making I wrote the code myself while sometimes using external help to fix  issues which werent noticable at first glance. caught and fixed a data-leakage problem, and tested the predictor season by season. Then i let it run for few matchweeks and recorded the data.
