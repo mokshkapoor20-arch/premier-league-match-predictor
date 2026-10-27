@@ -1,0 +1,568 @@
+{
+  "Arsenal": [
+    {
+      "name": "Ben White",
+      "position": "Right-Back"
+    },
+    {
+      "name": "Bruno Guimar\u00e3es",
+      "position": "Defensive Midfield"
+    },
+    {
+      "name": "Bukayo Saka",
+      "position": "Right Winger"
+    },
+    {
+      "name": "Christos Tzolis",
+      "position": "Left Wing"
+    },
+    {
+      "name": "Cristhian Mosquera",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "David Raya",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Declan Rice",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "Eberechi Eze",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Ezri Konsa",
+      "position": "Centre-Back"
+    }
+  ],
+  "Aston Villa": [
+    {
+      "name": "Aaron Wan-Bissaka",
+      "position": "Right-Back"
+    },
+    {
+      "name": "Alejandro Garnacho",
+      "position": "Left Wing"
+    },
+    {
+      "name": "Alysson",
+      "position": "Attacker"
+    },
+    {
+      "name": "Boubacar Kamara",
+      "position": "Defensive Midfield"
+    },
+    {
+      "name": "Brian Madjo",
+      "position": "Attacker"
+    },
+    {
+      "name": "Emi Buend\u00eda",
+      "position": "Right Winger"
+    },
+    {
+      "name": "George Hemmings",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Ian Maatsen",
+      "position": "Left-Back"
+    },
+    {
+      "name": "Jo\u00e3o Gomes",
+      "position": "Defensive Midfield"
+    }
+  ],
+  "Bournemouth": [
+    {
+      "name": "Adam Smith",
+      "position": "Right-Back"
+    },
+    {
+      "name": "Adrien Truffert",
+      "position": "Left-Back"
+    },
+    {
+      "name": "Alex Scott",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "\u00c1lvaro Rodr\u00edguez",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Amine Adli",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Bafod\u00e9 Diakit\u00e9",
+      "position": "Defender"
+    },
+    {
+      "name": "Ben Gannon-Doak",
+      "position": "Right Winger"
+    },
+    {
+      "name": "Daniel Jebbison",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "David Brooks",
+      "position": "Right Winger"
+    },
+    {
+      "name": "\u0110or\u0111e Petrovi\u0107",
+      "position": "Goalkeeper"
+    }
+  ],
+  "Brentford": [
+    {
+      "name": "Aaron Hickey",
+      "position": "Right-Back"
+    },
+    {
+      "name": "Antoni Milambo",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Benjamin Fredrick",
+      "position": "Defender"
+    },
+    {
+      "name": "Callum Wilson",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Caoimh\u00edn Kelleher",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Dango Ouattara",
+      "position": "Right Winger"
+    },
+    {
+      "name": "Ellery Balcombe",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Fabio Carvalho",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Gustavo Nunes",
+      "position": "Attacker"
+    },
+    {
+      "name": "H\u00e1kon Valdimarsson",
+      "position": "Goalkeeper"
+    }
+  ],
+  "Brighton": [
+    {
+      "name": "Aisha Masaka",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Arturo Ruiz \u00c1lvarez",
+      "position": "Manager"
+    },
+    {
+      "name": "Caitlin Hayes",
+      "position": "Defender"
+    },
+    {
+      "name": "Charlize Rule",
+      "position": "Defender"
+    },
+    {
+      "name": "Chiamaka Nnadozie",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Eleanor Heeps",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Emilie Joramo",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "Emily Murphy",
+      "position": "Forward"
+    },
+    {
+      "name": "Fran Kirby",
+      "position": "Forward"
+    },
+    {
+      "name": "Gabby George",
+      "position": "Centre-Back"
+    }
+  ],
+  "Burnley": [
+    {
+      "name": "Aaron Ramsey",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Andr\u00e9as Hountondji",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Anel Ahmedhod\u017ei\u0107",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Armando Broja",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Ashley Barnes",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Bashir Humphreys",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Ben Amos",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Connor Roberts",
+      "position": "Right-Back"
+    },
+    {
+      "name": "Dastan Satpaev",
+      "position": "Attacker"
+    }
+  ],
+  "Cardiff": [
+    {
+      "name": "Alex Robertson",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Callum Robinson",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Calum Chambers",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Calum Scanlon",
+      "position": "Left-Back"
+    },
+    {
+      "name": "Chris Willock",
+      "position": "Forward"
+    },
+    {
+      "name": "David Turnbull",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "Dylan Lawlor",
+      "position": "Defender"
+    },
+    {
+      "name": "Gabriel Osho",
+      "position": "Centre-Back"
+    }
+  ],
+  "Chelsea": [
+    {
+      "name": "Aar\u00f3n Anselmino",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Cole Palmer",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Danny Welbeck",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Emiliano Martinez",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Est\u00eav\u00e3o",
+      "position": "Right Winger"
+    },
+    {
+      "name": "Gabriel Slonina",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Geovany Quenda",
+      "position": "Attacker"
+    },
+    {
+      "name": "Jamie Gittens",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Jo\u00e3o Pedro",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Jordan Henderson",
+      "position": "Defensive Midfield"
+    }
+  ],
+  "Coventry": [
+    {
+      "name": "Aur\u00e8le Amenda",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Ben Wilson",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Bobby Thomas",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Brandon Thomas-Asante",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Caleb Yirenkyi",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "Carl Rushworth",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Daniel Bentley",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Ellis Simms",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Ephron Mason-Clark",
+      "position": "Winger"
+    },
+    {
+      "name": "Ethan Pinnock",
+      "position": "Centre-Back"
+    }
+  ],
+  "Crystal Palace": [
+    {
+      "name": "Adam Wharton",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "Anan Khalaili",
+      "position": "Attacker"
+    },
+    {
+      "name": "Axel Disasi",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Ben Chilwell",
+      "position": "Left-Back"
+    },
+    {
+      "name": "Borna Sosa",
+      "position": "Left-Back"
+    },
+    {
+      "name": "Chadi Riad",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Cheick Doucour\u00e9",
+      "position": "Defensive Midfield"
+    },
+    {
+      "name": "Chris Richards",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "Daichi Kamada",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Daniel Mu\u00f1oz",
+      "position": "Right-Back"
+    }
+  ],
+  "Everton": [
+    {
+      "name": "Brennan Johnson",
+      "position": "Right Winger"
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "Christian N\u00f8rgaard",
+      "position": "Defensive Midfield"
+    },
+    {
+      "name": "David Moyes",
+      "position": "Manager"
+    },
+    {
+      "name": "Harrison Armstrong",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Hayden Hackney",
+      "position": "Defensive Midfield"
+    },
+    {
+      "name": "Jack Grealish",
+      "position": "Left Wing"
+    },
+    {
+      "name": "Jake O'Brien",
+      "position": "Defender"
+    },
+    {
+      "name": "James Garner",
+      "position": "Defensive Midfield"
+    }
+  ],
+  "Fulham": [
+    {
+      "name": "Alex Iwobi",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Antonee Robinson",
+      "position": "Left-Back"
+    },
+    {
+      "name": "Benjamin Lecomte",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Bernd Leno",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Calvin Bassey",
+      "position": "Centre-Back"
+    },
+    {
+      "name": "C\u00e9sar Palacios",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Emile Smith-Rowe",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Gonzalo Garc\u00eda",
+      "position": "Centre-Forward"
+    },
+    {
+      "name": "Harrison Reed",
+      "position": "Central Midfield"
+    }
+  ],
+  "Huddersfield": [
+    {
+      "name": "Antony Evans",
+      "position": "Attacking Midfield"
+    },
+    {
+      "name": "Archie Collins",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Ashley Fletcher",
+      "position": "Forward"
+    },
+    {
+      "name": "Bali Mumba",
+      "position": "Defender"
+    },
+    {
+      "name": "Bojan Radulovi\u0107",
+      "position": "Striker"
+    },
+    {
+      "name": "Cameron Ashia",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Cameron Humphreys",
+      "position": "Midfielder"
+    },
+    {
+      "name": "David Kasumu",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Derensili Sanches Fernandes",
+      "position": "Forward"
+    }
+  ],
+  "Hull": [
+    {
+      "name": "Abd\u00fclkadir \u00d6m\u00fcr",
+      "position": "Forward"
+    },
+    {
+      "name": "Charlie Hughes",
+      "position": "Defender"
+    },
+    {
+      "name": "Darko Gyabi",
+      "position": "Central Midfield"
+    },
+    {
+      "name": "David Akintola",
+      "position": "Right Winger"
+    },
+    {
+      "name": "Dillon Phillips",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Eliot Matazo",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Hidemasa Morita",
+      "position": "Midfielder"
+    },
+    {
+      "name": "Jack Butland",
+      "position": "Goalkeeper"
+    },
+    {
+      "name": "Jens Hjert\u00f8-Dahl",
+      "position": "Attacker"
+    },
+    {
+      "name": "Joe Gelhardt",
+      "position": "Centre-Forward"
+    }
+  ],
+  "Ipswich": [
+    {
+      "name": "Moses Mbye",
+      "position": "Full-back"
+    },
+    {
+      "name": "Paterika Vaivai",
+      "position": "Prop"
+    }
+  ]
+}

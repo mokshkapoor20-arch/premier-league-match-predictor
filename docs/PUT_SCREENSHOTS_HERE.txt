@@ -1,0 +1,1 @@
+Put your screenshots and the demo GIF here (for example arena.gif, matchweek.png, record.png), then link them from README.md.

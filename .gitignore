@@ -1,0 +1,19 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Scratch files
+app_old.py
+*.bak
+error_log.txt
+data/raw/_download_tmp.csv
+
+# Secrets (never upload these)
+.streamlit/secrets.toml

@@ -1,0 +1,32 @@
+id,logged_at,home_team,away_team,p_home,p_draw,p_away,predicted_outcome,actual_outcome,correct,source,confidence
+1,2026-10-06 17:11,Chelsea,Bournemouth,0.427,0.246,0.328,H,H,True,model,Low
+2,2026-10-06 17:12,Chelsea,Man City,0.298,0.242,0.46,A,,,model,Medium
+3,2026-10-06 18:29,Everton,Chelsea,0.51,0.235,0.255,H,A,False,model,Medium
+4,2026-10-06 18:29,Brentford,Liverpool,0.504,0.229,0.268,H,A,False,model,Medium
+5,2026-10-06 18:29,Fulham,Hull,0.391,0.238,0.371,H,H,True,model,Low
+6,2026-10-06 18:29,Man City,Ipswich,0.719,0.193,0.088,H,H,True,model,High
+7,2026-10-06 18:29,Newcastle,Aston Villa,0.475,0.253,0.273,H,A,False,model,Medium
+8,2026-10-06 18:29,Bournemouth,Sunderland,0.474,0.249,0.277,H,H,True,model,Medium
+9,2026-10-06 18:29,Brighton,Crystal Palace,0.701,0.163,0.136,H,H,True,model,High
+10,2026-10-06 18:29,Leeds,Man United,0.339,0.224,0.437,A,D,False,model,Low
+11,2026-10-06 18:29,Nott'm Forest,Arsenal,0.28,0.239,0.481,A,A,True,model,Medium
+12,2026-10-06 18:29,Tottenham,Coventry,0.553,0.224,0.223,H,H,True,model,Medium
+13,2026-10-06 22:30,Arsenal,Leeds,0.608,0.249,0.143,H,H,True,model,High
+14,2026-10-08 19:54,Aston Villa,Brentford,0.24,0.254,0.507,A,D,False,model,Medium
+15,2026-10-08 19:54,Ipswich,Fulham,0.332,0.266,0.402,A,H,False,model,Low
+16,2026-10-08 19:54,Sunderland,Brighton,0.22,0.238,0.542,A,A,True,model,Medium
+17,2026-10-08 19:54,Man United,Tottenham,0.638,0.181,0.181,H,D,False,model,High
+18,2026-10-08 19:54,Crystal Palace,Nott'm Forest,0.217,0.237,0.545,A,H,False,model,Medium
+19,2026-10-08 19:54,Hull,Everton,0.386,0.259,0.356,H,D,False,model,Low
+20,2026-10-08 19:54,Liverpool,Man City,0.342,0.261,0.397,A,A,True,model,Low
+21,2026-10-08 19:54,Coventry,Newcastle,0.332,0.292,0.375,A,H,False,model,Low
+22,2026-10-22 18:14,Ipswich,Nott'm Forest,0.222,0.231,0.547,A,,,model,Medium
+23,2026-10-22 18:14,Aston Villa,Man City,0.231,0.27,0.5,A,,,model,Medium
+24,2026-10-22 18:14,Arsenal,Everton,0.565,0.249,0.186,H,,,model,Medium
+25,2026-10-22 18:14,Coventry,Fulham,0.279,0.27,0.451,A,,,model,Medium
+26,2026-10-22 18:14,Chelsea,Tottenham,0.546,0.234,0.22,H,,,model,Medium
+27,2026-10-22 18:14,Crystal Palace,Newcastle,0.334,0.28,0.386,A,,,model,Low
+28,2026-10-22 18:14,Hull,Brentford,0.347,0.259,0.394,A,,,model,Low
+29,2026-10-22 18:14,Liverpool,Brighton,0.304,0.248,0.448,A,,,model,Low
+30,2026-10-22 18:14,Man United,Bournemouth,0.603,0.196,0.2,H,,,model,High
+31,2026-10-22 18:14,Sunderland,Leeds,0.39,0.274,0.335,H,,,model,Low

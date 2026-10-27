@@ -1,0 +1,180 @@
+{
+  "Chelsea": [
+    {
+      "name": "Cole Palmer",
+      "position": "AM/RW",
+      "goals": 2,
+      "attack_weight": 0.74
+    },
+    {
+      "name": "Morgan Rogers",
+      "position": "AM/LW",
+      "goals": 3,
+      "attack_weight": 0.94
+    },
+    {
+      "name": "Geovany Quenda",
+      "position": "RW/RWB",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Estev\u00e3o Willian",
+      "position": "RW/AM",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Pedro Neto",
+      "position": "RW/LW",
+      "goals": 1,
+      "attack_weight": 0.54
+    },
+    {
+      "name": "Jo\u00e3o Pedro",
+      "position": "ST/AM",
+      "goals": 3,
+      "attack_weight": 1.0
+    },
+    {
+      "name": "Jamie Gittens",
+      "position": "LW",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Liam Delap",
+      "position": "ST",
+      "goals": 0,
+      "attack_weight": 0.4
+    },
+    {
+      "name": "Nicolas Jackson",
+      "position": "ST",
+      "goals": 0,
+      "attack_weight": 0.4
+    },
+    {
+      "name": "Emmanuel Emegha",
+      "position": "ST",
+      "goals": 0,
+      "attack_weight": 0.4
+    },
+    {
+      "name": "Danny Welbeck",
+      "position": "ST",
+      "goals": 0,
+      "attack_weight": 0.4
+    },
+    {
+      "name": "Enzo Fern\u00e1ndez",
+      "position": "CM",
+      "goals": 0,
+      "attack_weight": 0.18
+    },
+    {
+      "name": "Mois\u00e9s Caicedo",
+      "position": "DM/CM",
+      "goals": 0,
+      "attack_weight": 0.18
+    },
+    {
+      "name": "Reece James",
+      "position": "RB/RWB/CM",
+      "goals": 0,
+      "attack_weight": 0.18
+    },
+    {
+      "name": "Rom\u00e9o Lavia",
+      "position": "DM/CM",
+      "goals": 1,
+      "attack_weight": 0.38
+    }
+  ],
+  "Arsenal": [
+    {
+      "name": "Bukayo Saka",
+      "position": "RW",
+      "goals": 3,
+      "attack_weight": 0.94
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "position": "LW",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Gabriel Jesus",
+      "position": "ST/RW",
+      "goals": 0,
+      "attack_weight": 0.4
+    },
+    {
+      "name": "Eberechi Eze",
+      "position": "AM/LW",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Viktor Gy\u00f6keres",
+      "position": "ST",
+      "goals": 0,
+      "attack_weight": 0.4
+    },
+    {
+      "name": "Christos Tzolis",
+      "position": "LW/RW",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Noni Madueke",
+      "position": "RW/LW",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Kai Havertz",
+      "position": "ST/AM",
+      "goals": 2,
+      "attack_weight": 0.8
+    },
+    {
+      "name": "Fabio Vieira",
+      "position": "AM/CM",
+      "goals": 0,
+      "attack_weight": 0.3
+    },
+    {
+      "name": "Reiss Nelson",
+      "position": "LW/RW",
+      "goals": 0,
+      "attack_weight": 0.34
+    },
+    {
+      "name": "Martin \u00d8degaard",
+      "position": "AM/CM",
+      "goals": 2,
+      "attack_weight": 0.7
+    },
+    {
+      "name": "Mikel Merino",
+      "position": "CM",
+      "goals": 0,
+      "attack_weight": 0.18
+    },
+    {
+      "name": "Declan Rice",
+      "position": "CM/DM",
+      "goals": 0,
+      "attack_weight": 0.18
+    },
+    {
+      "name": "Bruno Guimar\u00e3es",
+      "position": "CM/DM",
+      "goals": 1,
+      "attack_weight": 0.38
+    }
+  ]
+}

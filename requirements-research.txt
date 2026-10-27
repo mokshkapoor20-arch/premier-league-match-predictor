@@ -1,0 +1,4 @@
+# Extra packages used only by the research scripts (model_4_compare.py uses XGBoost)
+-r requirements.txt
+xgboost
+jupyter
